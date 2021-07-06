@@ -43,3 +43,30 @@ section{
     background-image: url(images/shapes/Frame\ 58.jpg);
 
 }
+.center-text{
+    text-align: center;
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 20%;
+    margin-bottom: 100px;
+    
+}
+.flexbox-item{
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-radius: 40px; 
+    border-color: #ffffff;
+    box-shadow: 10px 10px 30px whitesmoke;
+
+}
+.recipe-items{
+    margin-top: 200px;
+    width: 20%;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 60px;
+}
